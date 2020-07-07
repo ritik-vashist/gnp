@@ -1,0 +1,74 @@
+body{
+  
+	background-color:#c1c1c1;
+	font-size:16px;
+}
+.nav-item{
+	margin-right:5px;
+}
+.main{
+	border:10px solid black;
+}
+.acol{
+	border:2px solid black;
+	border-radius:5px;
+	padding:20px;
+}
+.assistant{
+	border:2px solid black;
+	padding:10px;
+}
+.assistant>form>fieldset{
+	border-bottom:2px dotted black;
+	margin-bottom:5px;
+}
+.add{
+	border:2px solid black;
+	padding:5px;
+}
+.block{
+	border:2px solid black;
+	padding:5px;
+	hei:auto;
+}
+.buttonprc{
+	float:right;
+	width:40%;
+	margin-right:5%;
+}
+.buttoncnt{
+	width:80%;
+	text-align:center;
+}
+.cnt{
+	text-align:center;
+}
+.post{
+	border:3px solid gray;
+	padding:10px;
+}
+.subheading{
+	background-color:red;
+	text-align:center;
+}
+.more{
+	text-align:right;
+	padding-right:20px;
+}
+.top{
+	text-align:right;
+	padding-right:20px;
+}
+.heading {
+	color:white;
+	background-color: #222;
+	text-align:center;
+}
+
+
+
+<!--    ************************************************************ -->
+/* FOOTER */
+
+/* END FOOTER */
+
